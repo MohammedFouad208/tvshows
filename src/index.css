@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.AA{
+  text-decoration: none;
+  color:red;
+}
+.No-Dec{
+  text-decoration: none !important;
+  color:black;
+}
+
+.row{
+  margin-right: 0;
+  margin-left: 0;
+}
+
+/* Nav bar New Design*/
+.nav-bar{
+  background-color: slateblue !important;
+}
+.navbar-light .navbar-brand , .navbar-light .navbar-nav .nav-link{
+  color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover,.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover{
+  color: white;
+}
+
+/* Nav bar New Design*/
